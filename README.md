@@ -14,7 +14,7 @@ was not altered.
 | **Analysis** | Long-term spectrum (~0.5 Hz bins) with labelled tonal peaks, 1/3-octave bands unweighted and A-weighted, low-frequency and full spectrograms, level over time with L10/L50/L90, and a tonal peak table. Also: re-analyse against a background take, verify integrity, export a ZIP, open the folder. |
 | **AI evaluation** | Sends a compressed MP3 copy, the measured metrics and your prompt to an audio-input model. Presets cover general identification, construction, bar/music, mechanical hum and traffic, and you can save your own. Structured JSON output gives sources, confidence, time ranges, evidence, tags and next steps. The result is saved and sealed in the run folder. |
 | **Settings** | Runs folder, sample rate, calibration offset and mic response file, OpenRouter key and model, TSA URL, GPG key. |
-| **About & mic guide** | How to choose and set up a microphone for ambient and nuisance noise (also at [`src/noise_recorder/data/microphone-guide.md`](src/noise_recorder/data/microphone-guide.md)). |
+| **About & mic guide** | How to choose and set up a microphone for ambient and nuisance noise (also at [`src/noise_recorder/data/microphone-guide.md`](src/noise_recorder/data/microphone-guide.md)). Buying advice by tier: [docs/hardware-guide.md](docs/hardware-guide.md). |
 
 ## Install (Ubuntu)
 

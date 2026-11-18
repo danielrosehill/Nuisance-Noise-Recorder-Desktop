@@ -1,5 +1,8 @@
 # Microphones for recording noise nuisance
 
+Short version: buy an omnidirectional USB measurement mic with a calibration file
+(e.g. miniDSP UMIK-1). Tiered buying advice: docs/hardware-guide.md in the repository.
+
 The goal is a recording whose spectrum reflects the noise in the room, not the
 microphone's voice tuning or a sound server's noise suppression. Speech microphones are
 built to do the opposite of what you need here: they cut low frequencies, boost the
